@@ -1,5 +1,9 @@
 # Typescript
 
+## Goals
+
+Provide a structuring mechanism for larger pieces of code.
+
 ## Benefits of TypeScript:
 
 ## 1. Static Types
